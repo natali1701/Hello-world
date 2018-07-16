@@ -1,4 +1,5 @@
 # Hello-world
+
 My first repository on GitHub
-I love :coffee: :pizza:, and :dancer:.
-It's Nataly, baby.
+
+I love :coffee: :pizza:, and :dancer:. It's Nataly, baby.
